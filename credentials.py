@@ -1,7 +1,7 @@
 # credentials.py
-email = 'arjittyagi195@gmail.com'  # Sender email
-password = 'wulr chta uzev qwyg'  # App-specific password or regular password
-developers_api_key = 'AIzaSyAgelshkp6lJHAs8avtyhfqLTgkT7Lv0xM'
-project_cx = 'b575f9d3ca8b143b4'
+email = 'your email address'  # Sender email
+password = 'your password'  # App-specific password or regular password
+developers_api_key = 'your google api key'
+project_cx = 'your search engine id'
 
 #wulr chta uzev qwyg
