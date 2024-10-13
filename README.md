@@ -4,7 +4,7 @@ This Python-based application allows you to search for images using the Google C
 The application has a user-friendly GUI built with Tkinter and makes use of the google_images_search library to perform image searches.
 
 **Features**
-Image Search: Enter a search query to find images from Google.
+Image Search: Enter a search query to find images from Google.\n
 Number of Images: Specify the number of images to download.
 Email Delivery: Automatically send the images in a ZIP file to a specified email address.
 Progress Bar: Track the download progress using a built-in progress bar.
